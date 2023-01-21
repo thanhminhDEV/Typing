@@ -11,7 +11,7 @@ body {
     white-space: nowrap;
     overflow: hidden;
     border-right: 5px solid orange;
-    animation: typing 3.5s steps(24) 1, caret .5s steps(2) infinite;
+    animation: typing 3.5s steps(21) 1, caret .5s steps(2) infinite;
 }
 
 @keyframes caret {
